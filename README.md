@@ -7,19 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Smartfren Telecom
 - 🌱 I’m currently learning Data Engineer and Data Science
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/riefkyarifibrahim/)
-
-### Github stats
-<p align="left">
-<a href="https://github.com/riefkyarif">
-   <span class="icon  icon--linkedin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riefkyarif&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-{% if site.linkedin_username %}
-<li>
-  <a href="https://www.linkedin.com/in/riefkyarifibrahim/{{ site.linkedin_username }}">
-    <span class="icon  icon--linkedin">
+-     <span class="icon  icon--linkedin">
       <svg viewBox="0 50 512 512" >
         <path fill="#828282" d="M150.65,100.682c0,27.992-22.508,50.683-50.273,50.683c-27.765,0-50.273-22.691-50.273-50.683
         C50.104,72.691,72.612,50,100.377,50C128.143,50,150.65,72.691,150.65,100.682z M143.294,187.333H58.277V462h85.017V187.333z
@@ -29,7 +17,9 @@ Here are some ideas to get you started:
       </svg>
     </span>
 
-    <span class="username">{{ site.linkedin_username }}</span>
-  </a>
-</li>
-{% endif %}
+### Github stats
+<p align="left">
+<a href="https://github.com/riefkyarif">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riefkyarif&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
