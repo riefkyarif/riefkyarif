@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Smartfren Telecom
 - 🌱 I’m currently learning Data Engineer and Data Science
-- 📫 How to reach me: riefkyarif3@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/riefkyarifibrahim/)
 
 ### Github stats
 <p align="left">
