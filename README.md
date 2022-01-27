@@ -9,10 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <p>  <a href="https://www.linkedin.com/in/riefkyarifibrahim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 ### Github stats
-<p align="center">
+<p align="left">
 <a href="https://github.com/riefkyarif">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riefkyarif&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=riefkyarif)](https://github.com/anuraghazra/github-readme-stats)
